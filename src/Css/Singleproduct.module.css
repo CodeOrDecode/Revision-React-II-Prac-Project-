@@ -1,0 +1,15 @@
+.image{
+    width: 200px;
+}
+
+.stylediv{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    
+}
+
+.smalldiv{
+    border: 1px solid black;
+    padding: 15px;
+}
